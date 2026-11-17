@@ -79,7 +79,7 @@ export default function ContactPage() {
           { text: "spotless.", accent: true },
         ]}
         intro="Call, WhatsApp or send the form below and we'll get back to you with a free quote."
-        image="https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261019_151311_bdfe5d83-422a-425b-9978-f914bf089678.png"
+        image="/media/hf_20261019_151311_bdfe5d83-422a-425b-9978-f914bf089678.webp"
         imageAlt="Ssemu cleaner arriving at a client's office"
         primaryLabel="Send a request"
         primaryTo="#book"

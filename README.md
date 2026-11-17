@@ -12,6 +12,12 @@ npm run build    # static files in out/
 
 ## How it deploys to Hostinger
 
+Hostinger is set up as a **Web app** connected to this repo's `main` branch with
+auto-deployment on: it runs `npm run build` and serves `out/`. Every push to `main`
+goes live within a few minutes.
+
+The older route below (static files on the `deploy` branch) is kept as a fallback.
+
 1. Every push to `main` runs `.github/workflows/deploy.yml`, which builds the site
    and force-pushes the static files (`out/`) to the `deploy` branch.
 2. Hostinger hPanel → Websites → ssemucleaningservices.com → Advanced → **Git**:
@@ -27,8 +33,7 @@ bare domain, and sends routes like `/about` to `index.html` so refreshes work.
 
 ## Notes
 
-- Images and the hero video are still hosted on Readdy's storage/CDN
-  (storage.helloreaddy.io, static.readdy.ai, cloudfront). Moving them into
-  `public/` would make the site independent of Readdy.
+- All photos and the hero videos live in `public/media/` (served at `/media/...`).
+  Photos were converted to WebP (max 2000px) when they were moved off Readdy.
 - The contact form posts to Readdy's form endpoint (`src/pages/contact/page.tsx`).
 - If you keep editing in Readdy, download the code again and replace the files here.

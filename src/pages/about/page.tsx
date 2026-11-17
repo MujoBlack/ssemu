@@ -37,7 +37,7 @@ export default function AboutPage() {
           { text: "built on trust.", accent: true },
         ]}
         intro="A professional cleaning and facilities company based in Kampala, Uganda."
-        image="https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261019_151309_34f413b9-7e80-4f2a-9721-aedba5f5eb85.png"
+        image="/media/hf_20261019_151309_34f413b9-7e80-4f2a-9721-aedba5f5eb85.webp"
         imageAlt="Ssemu cleaning crew arriving at an office in Kampala"
         primaryLabel="Request a quote"
         secondaryLabel="Our services"
@@ -76,7 +76,7 @@ export default function AboutPage() {
                 <GrowOnScroll>
                   <div className="rounded-2xl overflow-hidden bg-background-200 aspect-[2/1] w-full">
                     <img
-                      src="https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/4d63c789-31d5-43d6-a724-8124b6205e52_compressed_team-full-staff-wall.webp"
+                      src="/media/team-full-staff-wall.webp"
                       alt="The full Ssemu Cleaning Services staff team outside the Kampala office"
                       loading="lazy"
                       decoding="async"

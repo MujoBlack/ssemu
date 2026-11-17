@@ -3,7 +3,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { useReducedMotion } from "@/hooks/useReducedMotion";
 
 const VEIL_LOGO =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/a839d619-74d2-402f-8cc9-cd08ddaf2e87_compressed_ssemu-logo.webp";
+  "/media/ssemu-logo.webp";
 
 type Phase = "idle" | "cover" | "reveal" | "reset";
 

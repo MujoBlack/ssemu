@@ -4,11 +4,11 @@ import { heroServiceCards } from "@/mocks/services";
 import Words from "@/components/base/Words";
 
 const HERO_VIDEO_DESKTOP =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/748cde09-2635-4dca-9d0e-45d93572a316_hero-scroll.mp4";
+  "/media/hero-scroll.mp4";
 const HERO_VIDEO_MOBILE =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/99ae82ea-2652-45e6-bbc1-de8c391fdbae_hero-scroll-mobile-portrait-allkey.mp4";
+  "/media/hero-scroll-mobile-portrait-allkey.mp4";
 const HERO_POSTER =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/f4b5949b-3368-407a-9e7f-33e538d9f8f7_compressed_hero-poster.webp";
+  "/media/hero-poster.webp";
 
 const VIDEO_ASPECT = 716 / 1280;
 const PLATFORM_TRAVEL = 0.416;

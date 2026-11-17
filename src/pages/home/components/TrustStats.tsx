@@ -116,7 +116,7 @@ export default function TrustStats() {
               }}
             >
               <img
-                src="https://static.readdy.ai/image/a640633edfbdf1109c1b0b3486e64127/a19bb50fedfcd34e0f1ccbddd1483973.jpeg"
+                src="/media/a19bb50fedfcd34e0f1ccbddd1483973.webp"
                 alt="Ssenyonjo Mubaraka, Managing Director of Ssemu Cleaning Services Ltd, in Kampala"
                 className="w-full aspect-[5/6] object-cover object-top"
               />

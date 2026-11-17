@@ -17,7 +17,7 @@ export default function ServicesPage() {
           { text: "under one team.", accent: true },
         ]}
         intro="Cleaning, fumigation, waste and high-rise window cleaning across Kampala."
-        image="https://readdy.ai/api/search-image?query=African%20cleaning%20team%20in%20sky%20blue%20uniforms%20working%20in%20a%20bright%20modern%20building%20lobby%20in%20Kampala%20Uganda%2C%20cleaning%20equipment%2C%20warm%20natural%20light%2C%20realistic%20editorial%20photography&width=1400&height=900&seq=ssemu-services-hero-01&orientation=landscape"
+        image="/media/stock-ssemu-services-hero-01.webp"
         imageAlt="Ssemu cleaning team working in a bright modern lobby"
         primaryLabel="Request a quote"
         secondaryLabel="Talk to us"

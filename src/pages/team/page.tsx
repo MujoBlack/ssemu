@@ -5,10 +5,10 @@ import Words from "@/components/base/Words";
 import Reveal from "@/components/base/Reveal";
 
 const GROUP_IMAGE =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/a67d9ee3-7295-4fb4-9d20-ba4c3683363a_compressed_team-leaders-arms-crossed.webp";
+  "/media/team-leaders-arms-crossed.webp";
 
 const STAFF_IMAGE =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/4d63c789-31d5-43d6-a724-8124b6205e52_compressed_team-full-staff-wall.webp";
+  "/media/team-full-staff-wall.webp";
 
 function MemberCard({ slug, name, title, image, group }: { slug: string; name: string; title: string; image: string; group: string }) {
   return (
@@ -50,7 +50,7 @@ export default function TeamPage() {
           { text: "the spotless spaces.", accent: true },
         ]}
         intro="A dynamic, professional and supervised team serving Kampala and beyond."
-        image="https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261019_151310_a3c3f2ee-022a-4d07-8754-94e010b3af7a.png"
+        image="/media/hf_20261019_151310_a3c3f2ee-022a-4d07-8754-94e010b3af7a.webp"
         imageAlt="Ssemu crew preparing gloves and cleaning equipment"
         primaryLabel="Book Now"
         secondaryLabel="Our services"

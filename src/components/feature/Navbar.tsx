@@ -5,7 +5,7 @@ import ServicesMegaMenu from "@/components/feature/ServicesMegaMenu";
 import MobileMenu from "@/components/feature/MobileMenu";
 
 const LOGO_BLACK =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/a839d619-74d2-402f-8cc9-cd08ddaf2e87_compressed_ssemu-logo.webp";
+  "/media/ssemu-logo.webp";
 
 const SOCIAL_LINKS = [
   { label: "Facebook", icon: "ri-facebook-fill", url: "https://www.facebook.com/" },

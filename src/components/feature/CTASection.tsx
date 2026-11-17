@@ -5,7 +5,7 @@ import Words, { type WordLine } from "@/components/base/Words";
 import Reveal from "@/components/base/Reveal";
 
 const HERO_CLIP =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/748cde09-2635-4dca-9d0e-45d93572a316_hero-scroll.mp4";
+  "/media/hero-scroll.mp4";
 const CLIP_START = 8;
 const CLIP_END = 12;
 

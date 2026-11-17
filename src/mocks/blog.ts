@@ -27,7 +27,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "A clean office is not a luxury. Here is how a proper cleaning routine protects your staff, your clients and your reputation.",
     image:
-      "https://readdy.ai/api/search-image?query=African%20cleaning%20staff%20sanitising%20a%20bright%20office%20desk%20in%20Uganda%2C%20spray%20bottle%20and%20cloth%2C%20natural%20light%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-office-01&orientation=landscape",
+      "/media/stock-ssemu-blog-office-01.webp",
     body: [
       "In a busy Kampala office, dust, shared surfaces and crowded washrooms are where sickness spreads fastest. A predictable cleaning routine is one of the cheapest ways to keep your team healthy and productive.",
       "At Ssemu we build a simple checklist for every client — floors and high-touch surfaces daily, deep cleans weekly, and washrooms checked throughout the day. Nothing is left to memory.",
@@ -43,7 +43,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "The habits we built during the pandemic still make offices, schools and events safer today.",
     image:
-      "https://readdy.ai/api/search-image?query=African%20worker%20in%20blue%20uniform%20and%20mask%20disinfecting%20a%20public%20surface%20with%20a%20sprayer%20in%20Uganda%2C%20bright%20daylight%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-covid-02&orientation=landscape",
+      "/media/stock-ssemu-blog-covid-02.webp",
     body: [
       "When COVID-19 hit, Ssemu teams moved quickly to support schools, hotels and offices with deep disinfection. Those methods are still part of our service today.",
       "We focus on high-touch points — door handles, railings, switches, lift buttons and shared desks — using products that are effective and safe when applied correctly.",
@@ -59,7 +59,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Cockroaches, bed bugs, termites and rodents all leave early clues. Spotting them quickly saves money.",
     image:
-      "https://readdy.ai/api/search-image?query=Close%20up%20of%20a%20pest%20control%20technician%20in%20white%20protective%20suit%20inspecting%20a%20kitchen%20in%20Uganda%2C%20focused%20detail%2C%20neutral%20interior%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-pest-03&orientation=landscape",
+      "/media/stock-ssemu-blog-pest-03.webp",
     body: [
       "Pests rarely appear overnight. By the time you see a cockroach in the kitchen light, there is usually a colony behind the cupboards.",
       "Watch for droppings, greasy smear marks along skirting, small holes in wood or fabric, a musty smell, and pets that keep staring at one spot behind a wall.",
@@ -75,7 +75,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Integrated waste management protects health and the environment — and it starts with sorting.",
     image:
-      "https://readdy.ai/api/search-image?query=Colourful%20sorted%20recycling%20bins%20on%20a%20clean%20street%20in%20Kampala%20Uganda%2C%20bright%20daylight%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-waste-04&orientation=landscape",
+      "/media/stock-ssemu-blog-waste-04.webp",
     body: [
       "Waste that is dumped or burned creates disease, pollutes water and spoils the neighbourhood. Proper collection and disposal is a public-health service, not just housekeeping.",
       "We help clients separate general waste, recyclables and hazardous items, then collect on a fixed schedule so bins never overflow.",
@@ -91,7 +91,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "Scaffolding, cranes and trained crews: the safety behind a spotless glass facade.",
     image:
-      "https://readdy.ai/api/search-image?query=Window%20cleaning%20crew%20on%20scaffolding%20platform%20cleaning%20a%20glass%20office%20tower%2C%20bright%20sky%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-highrise-05&orientation=landscape",
+      "/media/stock-ssemu-blog-highrise-05.webp",
     body: [
       "Cleaning tall buildings is skilled, safety-critical work. Every job starts with a method statement, harness checks and a trained supervisor on the ground.",
       "Depending on the building we use suspended gondolas, scaffolding platforms or crane-supported access, and we hire out scaffolding and cranes to other contractors too.",
@@ -107,7 +107,7 @@ export const blogPosts: BlogPost[] = [
     excerpt:
       "From youth employment to clean-up drives, we are proud to serve Kampala in more ways than one.",
     image:
-      "https://readdy.ai/api/search-image?query=African%20cleaning%20company%20team%20in%20sky%20blue%20uniforms%20with%20cleaning%20cart%20smiling%20together%20in%20a%20bright%20lobby%20Uganda%2C%20realistic%20editorial%20photography&width=720&height=480&seq=ssemu-blog-csr-06&orientation=landscape",
+      "/media/stock-ssemu-blog-csr-06.webp",
     body: [
       "Ssemu Cleaning Services Ltd grew from a small youth-run team into a company trusted by banks, universities, hotels and communities across Uganda.",
       "We are committed to creating dignified jobs for young people and to keeping the spaces we clean — and the communities around them — healthy.",

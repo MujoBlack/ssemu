@@ -39,7 +39,7 @@ export const services: ServiceItem[] = [
       "Quality checklists signed off with your team",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_165018_ceb54c54-5884-462c-8b95-b434a49d23bd.png",
+      "/media/hf_20261016_165018_ceb54c54-5884-462c-8b95-b434a49d23bd.webp",
     imageAlt: "Ssemu cleaning crew mopping an office floor in Kampala",
   },
   {
@@ -57,7 +57,7 @@ export const services: ServiceItem[] = [
       "Optional regular weekly or fortnightly visits",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_165529_3aca68e0-f6ed-435b-9a6d-12026025d427.png",
+      "/media/hf_20261016_165529_3aca68e0-f6ed-435b-9a6d-12026025d427.webp",
     imageAlt:
       "Ssemu cleaners deep cleaning the living room of a home in Kampala",
   },
@@ -76,7 +76,7 @@ export const services: ServiceItem[] = [
       "Full post-event clean-up and waste removal",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_165018_ca41bf84-f791-435b-8b0f-94c700fe06df.png",
+      "/media/hf_20261016_165018_ca41bf84-f791-435b-8b0f-94c700fe06df.webp",
     imageAlt:
       "Ssemu sanitation team running hand-washing stations at an event in Uganda",
   },
@@ -95,7 +95,7 @@ export const services: ServiceItem[] = [
       "Waste audits for offices and institutions",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_165019_fb26698e-f8f8-475a-b065-db9f31af7126.png",
+      "/media/hf_20261016_165019_fb26698e-f8f8-475a-b065-db9f31af7126.webp",
     imageAlt:
       "Ssemu waste crew collecting and loading garbage for disposal in Kampala",
   },
@@ -114,7 +114,7 @@ export const services: ServiceItem[] = [
       "Full safety compliance and supervision",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_163900_3b1f616f-6708-4938-9437-47018a6a9303.png",
+      "/media/hf_20261016_163900_3b1f616f-6708-4938-9437-47018a6a9303.webp",
     imageAlt:
       "Ssemu high-rise window cleaning crew working from a suspended platform",
   },
@@ -133,7 +133,7 @@ export const services: ServiceItem[] = [
       "Follow-up checks and prevention advice",
     ],
     image:
-      "https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261016_165018_6a68d7a7-5bbd-45fc-a66a-ab7a2b86363c.png",
+      "/media/hf_20261016_165018_6a68d7a7-5bbd-45fc-a66a-ab7a2b86363c.webp",
     imageAlt:
       "Ssemu fumigator in protective equipment treating a room for pests",
   },

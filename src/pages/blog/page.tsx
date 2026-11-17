@@ -22,7 +22,7 @@ export default function BlogPage() {
           { text: "healthier spaces.", accent: true },
         ]}
         intro="Practical advice on cleaning, hygiene, pest control and waste management in Uganda."
-        image="https://d8j0ntlcm91z4.cloudfront.net/user_3HAwmNr1wDyIvlf27Ibx2ykuA9i/hf_20261019_151310_40f4a318-f5c7-45f9-9327-ac83178f7116.png"
+        image="/media/hf_20261019_151310_40f4a318-f5c7-45f9-9327-ac83178f7116.webp"
         imageAlt="Freshly cleaned office reception in Kampala"
         primaryLabel="Book Now"
         secondaryLabel="Our services"

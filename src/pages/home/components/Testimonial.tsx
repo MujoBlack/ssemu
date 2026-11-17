@@ -86,7 +86,7 @@ export default function Testimonial() {
           <Reveal delay={120}>
             <div className="w-full rounded-2xl overflow-hidden bg-accent-100">
               <img
-                src="https://static.readdy.ai/image/a640633edfbdf1109c1b0b3486e64127/42fe5f628bce6984a080fa807b627bbe.jpeg"
+                src="/media/42fe5f628bce6984a080fa807b627bbe.webp"
                 alt="Ssemu Cleaning Services leadership team standing with arms crossed in Kampala"
                 className="w-full aspect-[3/2] object-cover object-center"
               />

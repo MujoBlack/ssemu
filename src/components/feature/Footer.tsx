@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { company } from "@/mocks/company";
 
 const LOGO_BLACK =
-  "https://storage.helloreaddy.io/project_files/8e0e98b8-0e43-4f10-a7fa-e43fc189d217/a839d619-74d2-402f-8cc9-cd08ddaf2e87_compressed_ssemu-logo.webp";
+  "/media/ssemu-logo.webp";
 
 const serviceLinks = [
   { label: "Office & commercial", to: "/services#office-commercial-cleaning" },
